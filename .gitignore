@@ -1,0 +1,11 @@
+*.map
+*.hex
+*.bin
+*.kwb
+*.imx
+*.bak
+*~
+*.o
+*.a
+doc/
+tool/

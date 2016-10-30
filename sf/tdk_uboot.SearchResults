@@ -1,0 +1,2 @@
+---- nand_scan Matches (1 in 1 files) ----
+Nand.h (y:\kernel\misc\bootloader\tekkamanninja-u-boot-2010.03-tekkaman-052d395\include\linux\mtd):extern int nand_scan (struct mtd_info *mtd, int max_chips);
